@@ -1,0 +1,10 @@
+.App {
+  text-align: left;
+}
+
+.visible.transition {
+  margin: auto !important;
+  display: inline-block !important;
+  position: relative;
+  top: 20%;
+}

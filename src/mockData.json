@@ -1,0 +1,180 @@
+{
+  "spaces": {
+    "testSpace1": {
+      "id": "SUBJ1001",
+      "name": "History of numbers",
+      "institution": "Monash University",
+      "description": "Learn how to sleep"
+    },
+    "testSpace2": {
+      "id": "SUBJ1002",
+      "name": "Applications of Lateral Movement",
+      "institution": "Monash University",
+      "description": "Learn how to sing"
+    },
+    "testSpace3": {
+      "id": "SUBJ1003",
+      "name": "Advanced Fashion",
+      "institution": "Monash University",
+      "description": "Learn how to meddle"
+    },
+    "testSpace4": {
+      "id": "UNIT1001",
+      "name": "Practical Smelting",
+      "institution": "University of Melbourne",
+      "description": "The fundamentals of running"
+    },
+    "testSpace5": {
+      "id": "UNIT1002",
+      "name": "Fluid Mechanics",
+      "institution": "University of Melbourne",
+      "description": "The fundamentals of playing"
+    },
+    "testSpace6": {
+      "id": "UNIT1003",
+      "name": "Cupcake Engineering",
+      "institution": "University of Melbourne",
+      "description": "The fundamentals of slaying"
+    },
+    "1": {
+      "id": "SUBJ1000",
+      "institution": "RMIT",
+      "description": "Learn how to cook",
+      "name": "Linear Algorithms",
+      "quizzes": {
+        "1": {
+          "name": "History of Computer Science",
+          "creator": "1",
+          "question": {
+            "1": {
+              "type": "MC",
+              "question": "What is a Computer",
+              "options": [
+                {
+                  "text": "A person who types",
+                  "isCorrect": false
+                },
+                {
+                  "text": "an electronic device which is capable of receiving information (data) in a particular form and of performing a sequence of operations in accordance with a predetermined but variable set of procedural instructions (program) to produce a result in the form of information or signals.",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Joseph",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Oranges on fire",
+                  "isCorrect": false
+                }
+              ]
+            },
+            "2": {
+              "type": "MC",
+              "question": "What is a Donut",
+              "options": [
+                {
+                  "text": "A police officer",
+                  "isCorrect": false
+                },
+                {
+                  "text": "A facebook employee.",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Joseph",
+                  "isCorrect": false
+                },
+                {
+                  "text": "The offspring of a Bagel and a cupcake",
+                  "isCorrect": true
+                }
+              ]
+            },
+            "3": {
+              "type": "MC",
+              "question": "What is a Dog",
+              "options": [
+                {
+                  "text": "A person who lies",
+                  "isCorrect": false
+                },
+                {
+                  "text": "an electronic device which is capable of receiving information (data) in a particular form and of performing a sequence of operations in accordance with a predetermined but variable set of procedural instructions (program) to produce a result in the form of information or signals.",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Joseph",
+                  "isCorrect": false
+                },
+                {
+                  "text": "A creature that enjoys their own tail",
+                  "isCorrect": true
+                }
+              ]
+            }
+          }
+        }
+      },
+      "chat": {
+        "1": {
+          "messages": {
+            "1": {
+              "userId": "1",
+              "text": "Message",
+              "userName": "Name",
+              "timeStamp": "2018-05-05T21:10:24+10:00"
+            }
+          }
+        }
+      },
+      "resources": {
+        "1": {
+          "name": "My resource",
+          "link": "www.example.com"
+        }
+      },
+      "notes": {
+        "1": {
+          "name": "A note",
+          "topic": "A topic",
+          "link": "www.example.com"
+        }
+      },
+      "timetables": {
+        "1": {
+          "time": "2018-05-05T21:10:24+10:00",
+          "name": "Exam A",
+          "category": "Exam"
+        }
+      },
+      "review": {
+        "subject": {
+          "1": {
+            "rating": 1,
+            "title": "Absolutely terrible",
+            "review": "This unit was horrible. DO NOT ATTEMPT!!!"
+          }
+        },
+        "teachers": {
+          "1": {
+            "rating": 5,
+            "title": "Absolutely amazing",
+            "review": "This teacher was wonderful. JOIN THEIR CLASS!!!"
+          }
+        }
+      }
+    }
+  },
+  "users": {
+    "g2SnUS5dvuQVUNgzeUDSQW1tH5a2": {
+      "spaces": {
+        "-LBk21swjlmYjhkpIvG1": {
+          "description": "Learn how to cook",
+          "id": "SUBJ1001",
+          "institution": "Monash University",
+          "name": "Subject 1"
+        }
+      }
+    }
+  }
+}
